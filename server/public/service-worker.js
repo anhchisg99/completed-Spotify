@@ -14,10 +14,10 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.cd8854177c12a3ae03a1ebc449f96d6f.js"
+  "/precache-manifest.0897cc08da3ce75d37721ccf2726f9b5.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "spotty"});
+workbox.core.setCacheNameDetails({prefix: "spotify"});
 
 self.addEventListener('message', (event) => {
   if (event.data && event.data.type === 'SKIP_WAITING') {

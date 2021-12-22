@@ -1,4 +1,4 @@
-# [spotty](https://krthr.github.io/spotty/)
+# [spotify](https://krthr.github.io/spotty/)
 
 > Spotify web clone build with Vue.js and Vuetify
 

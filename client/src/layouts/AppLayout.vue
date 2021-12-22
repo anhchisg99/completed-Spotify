@@ -3,7 +3,7 @@
     <v-navigation-drawer v-model="drawer" app>
       <div class="pa-5">
         <h1>
-          <router-link to="/">Spotty</router-link>
+          <router-link to="/">Spotify</router-link>
         </h1>
       </div>
 
