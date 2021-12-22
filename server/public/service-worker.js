@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.8a52169dcfa621264f4f4c50f0c80dc3.js"
+  "/precache-manifest.cd8854177c12a3ae03a1ebc449f96d6f.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spotty"});
