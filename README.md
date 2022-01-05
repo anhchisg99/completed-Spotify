@@ -20,8 +20,8 @@
     > Serve on localhost:3000 
     > npm run dev
     
-	  > Build for production
-	  > npm run build
+	> Build for production
+	> npm run build
 
 
     
