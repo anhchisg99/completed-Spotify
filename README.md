@@ -2,6 +2,7 @@
 
 
 > Build Music Web, Using Vuejs 
+
 > Function : Play , Stop , Next ,Back ,Shuttle
 
 ## Using
