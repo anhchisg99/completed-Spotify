@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.0897cc08da3ce75d37721ccf2726f9b5.js"
+  "/precache-manifest.e35407ecbfdbf924c995e482a5e10442.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "spotify"});
