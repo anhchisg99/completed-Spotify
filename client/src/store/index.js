@@ -13,7 +13,7 @@ export default new Vuex.Store({
         title: "Angle 2 me",
         artist: "Je",
         time:'3.17',
-        img:'https://neo-bucket-1.s3.ap-southeast-1.amazonaws.com/4F791FF3-85DD-4A59-B5E2-04F381DF46BC.jpeg',
+        img:'https://music-app-lavina.s3.amazonaws.com/angle-2me.jpeg',
         // img:'../assets/angle-2-me.jpeg',
         src: require("../assets/music1.mp3"),
       },
@@ -23,7 +23,7 @@ export default new Vuex.Store({
         artist: "Monstart",
         // img:'../assets/baby-i-told-you.jpg',
 
-        img:'https://neo-bucket-1.s3.ap-southeast-1.amazonaws.com/B2F39C34-0B2E-4E18-8604-AECDBC6F465B.jpeg',
+        img:'https://music-app-lavina.s3.amazonaws.com/baby-i-told-you.jpeg',
         src: require("../assets/music2.mp3"),
       },
     ],
