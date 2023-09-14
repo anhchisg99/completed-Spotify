@@ -13,7 +13,7 @@ export default new Vuex.Store({
         title: "Angle 2 me",
         artist: "Je",
         time:'3.17',
-        img:'https://music-app-lavina.s3.amazonaws.com/angle-2me.jpeg',
+        img:'https://res.cloudinary.com/dzo1tqhjz/image/upload/v1678355252/Spotify%20Lavina/angle-2-me_hksr9e.jpg',
         // img:'../assets/angle-2-me.jpeg',
         src: require("../assets/music1.mp3"),
       },
@@ -23,7 +23,7 @@ export default new Vuex.Store({
         artist: "Monstart",
         // img:'../assets/baby-i-told-you.jpg',
 
-        img:'https://music-app-lavina.s3.amazonaws.com/baby-i-told-you.jpeg',
+        img:'https://res.cloudinary.com/dzo1tqhjz/image/upload/v1678355252/Spotify%20Lavina/baby-i-told-you_ih0hzo.jpg',
         src: require("../assets/music2.mp3"),
       },
     ],
