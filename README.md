@@ -13,17 +13,16 @@
 -  Data fetching at build/request time
 
 ## Quick Start
-
-    > install dependencies 
-    > npm install
+```
+#install dependencies 
+npm install
     
-    > Serve on localhost:3000 
-    > npm run dev
+#Serve on localhost:3000 
+npm run dev
     
-	> Build for production
-	> npm run build
-
-
+#Build for production
+npm run build
+```
     
  ## Deployment
  You can check it out here: [https://spotify-lavina.herokuapp.com/#/browse/featured](https://spotify-lavina.herokuapp.com/#/browse/featured)
